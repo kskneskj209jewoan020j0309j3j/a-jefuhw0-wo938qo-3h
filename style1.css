@@ -44,7 +44,7 @@ h1{
     height: 350px;
     box-sizing: border-box;
     background-color: rgb(255, 255, 255);
-    margin-left: -208px;
+    margin-left: -205px;
     margin-top: 50px;
     align-items: center;
 }
@@ -67,7 +67,7 @@ form input:focus{
 form .p2 input{
     margin-left: -9px;
 }
-i{
+.p2 i{
     margin-left: -30px;
     cursor: pointer;
 }
@@ -80,7 +80,6 @@ form .login-btn{
     cursor: pointer;
     border-radius: 6px;
     margin-top: -9px;
-    width: 384px;
 }
 form .forget-link{
     text-align: center;
@@ -183,7 +182,7 @@ hr{
     color: rgb(150, 150, 150);
     text-decoration: none !important;
     font-size: 11px;
-    margin-left: -60px;
+    margin-left: -55px;
     margin-top: 35px;
 }
 .ss{
@@ -193,10 +192,10 @@ hr{
 .fk{
     color: rgb(150, 150, 150);
     font-size: 13px;
-    margin-left: -45px;
+    margin-left: -39px;
     margin-top: 500px;
 }
-.left i{
+.langue ul .left i{
 margin-left: 0px;
-margin-top: 7px;
+margin-top: 0px;
 }
